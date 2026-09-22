@@ -1,0 +1,12 @@
+{
+  "name": "telegram-earning-bot",
+  "version": "1.0.0",
+  "description": "Telegram earning bot (join channels -> verify -> balance/refer/work) deployed on Vercel",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'This project runs as Vercel serverless functions, not a standalone server.'"
+  },
+  "dependencies": {
+    "@vercel/kv": "^1.0.1"
+  }
+}
